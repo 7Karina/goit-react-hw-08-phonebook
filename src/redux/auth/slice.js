@@ -32,7 +32,7 @@ const authSlice = createSlice({
       .addCase(logIn.fulfilled, (state, action) => {
         state.user = action.payload.user;
         state.token = action.payload.token;
-        state.iaLoggenIn = true;
+        state.isLoggenIn = true;
         state.error = null;
         state.isLoading = false;
       })
