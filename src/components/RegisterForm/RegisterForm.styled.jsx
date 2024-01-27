@@ -20,7 +20,7 @@ export const Label = styled.label`
 `;
 
 export const Input = styled.input`
-  color: #171718;
+  color: #5690e6;
   padding: 8px 12px;
   font: inherit;
   cursor: pointer;
@@ -31,8 +31,8 @@ export const Button = styled.button`
   font: inherit;
   cursor: pointer;
   border-radius: 4px;
-  border: 3px solid #f08080;
-  color: #f08080;
+  border: 3px solid #12a76e;
+  color: #12a76e;
   font-size: 20px;
   display: flex;
   align-items: center;
