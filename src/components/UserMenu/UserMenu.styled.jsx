@@ -17,8 +17,8 @@ export const Button = styled.button`
   font: inherit;
   cursor: pointer;
   border-radius: 4px 8px;
-  border: 3px solid #f08080;
-  color: #f08080;
+  border: 3px solid #12a76e;
+  color: #12a76e;
   font-size: 20px;
   display: flex;
   align-items: center;
