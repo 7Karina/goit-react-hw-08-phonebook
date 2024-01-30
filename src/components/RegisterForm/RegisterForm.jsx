@@ -27,7 +27,7 @@ export const RegisterForm = () => {
           type="text"
           name="name"
           placeholder="Введіть ім'я"
-          pattern="^[^\d]+$"
+          pattern="^[a-zA-Z'-\s]+$"
           title="Ім'я має містити лише літери, апострофи, дефіси та відступи"
           required
         />
