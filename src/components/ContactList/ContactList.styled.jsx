@@ -10,6 +10,7 @@ export const List = styled.ul`
   background-color: rgba(0, 0, 0, 0.6);
   border: 3px solid #5690e6;
   list-style: none;
+  margin: 0 auto;
 `;
 
 export const Item = styled.li`

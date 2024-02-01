@@ -8,6 +8,7 @@ export const Form = styled.form`
   background-color: rgba(0, 0, 0, 0.6);
   border: 6px solid #5690e6;
   border-radius: 10px;
+  margin: 0 auto;
 `;
 
 export const Label = styled.label`
